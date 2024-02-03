@@ -1,13 +1,10 @@
-# VBA-Challenge
-Northwestern Bootcamp (VBA Project)
 
-MODULE 02: FUNDAMENTALS OF PROGRAMMING, CONTROL FLOW, AND SCRIPTING IN VBA
-
+PROGRAMMING, CONTROL FLOW, AND SCRIPTING IN VBA
 ----------------------------------------------------------
 Overview
 ----------------------------------------------------------
 
-In this challenge, I was tasked with creating a script that loops through all the stocks of an excel worksheet for one year and outputs the following information:
+I was tasked with creating a script that loops through all the stocks of an excel worksheet for one year and outputs the following information:
 
 1. The ticker symbol (AAB, AAF, AAR, Etc...)
 
