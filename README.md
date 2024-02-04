@@ -4,7 +4,7 @@ PROGRAMMING, CONTROL FLOW, AND SCRIPTING IN VBA
 Overview
 ----------------------------------------------------------
 
-I was tasked with creating a script that loops through all the stocks of an excel worksheet for one year and outputs the following information:
+I was tasked with creating a script that loops through all the stocks of in a market for one year and outputs the following information:
 
 1. The ticker symbol (AAB, AAF, AAR, Etc...)
 
